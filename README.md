@@ -1,5 +1,5 @@
 ### Streamlit官方教程 - 30天学Streamlit
-管方网址(https://30days.streamlit.app/?challenge=Day1)
+[官方网址](https://30days.streamlit.app/?challenge=Day1)
 ##### day01
 安装streamlit
 运行streamlit helloworld程勋
@@ -20,8 +20,7 @@ st.write
 将 Streamlit 应用上传至 GitHub
 
 #### day07
-将你的 Streamlit 应用部署至 [Streamlit Community Cloud]
-(https://streamlit.io/cloud)
+将你的 Streamlit 应用部署至 [Streamlit Community Cloud](https://streamlit.io/cloud)
 
 #### day08
 st.slider
