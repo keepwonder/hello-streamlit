@@ -1,7 +1,7 @@
 ### Streamlit官方教程 - 30天学Streamlit
 ##### day01
 安装streamlit
-运行streamlit helloworld程勋
+运行streamlit helloworld
 [官方网址](https://30days.streamlit.app/?challenge=Day1)
 #### day02
 st.write
